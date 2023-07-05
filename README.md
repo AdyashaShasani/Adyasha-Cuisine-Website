@@ -1,9 +1,9 @@
-# Shaif's Cuisine
+# Adyasha's Cuisine
 
-**A HTML CSS Project**. Mede with ♥ by web cifar community <br>
+**A HTML CSS Project**. <br>
 live Preview: [Click Me](http://shaif-s-cuisine.netlify.app)
 
-![](./readmeImg/banner.png)
+<!--![](./readmeImg/banner.png)
 
 ## Developer team of Shaif's Cuisine
 
@@ -11,4 +11,4 @@ live Preview: [Click Me](http://shaif-s-cuisine.netlify.app)
 1. Anwar saeed
 1. MD Moniruzzaman Sojol
 1. Lovekesh Pal
-1. Houmayan Rashid Chy
+1. Houmayan Rashid Chy-->
