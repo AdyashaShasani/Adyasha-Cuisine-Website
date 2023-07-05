@@ -1,14 +1,8 @@
 # Adyasha's Cuisine
 
-**A HTML CSS Project**. <br>
-live Preview: [Click Me](http://shaif-s-cuisine.netlify.app)
+**A frontend web development project**. <br>
+live Preview: [Click Me](https://adyasha-s-cuisine.netlify.app/)
 
-<!--![](./readmeImg/banner.png)
+![](./readmeImg/cuisine.png)
 
-## Developer team of Shaif's Cuisine
 
-1. Shaif Arfan
-1. Anwar saeed
-1. MD Moniruzzaman Sojol
-1. Lovekesh Pal
-1. Houmayan Rashid Chy-->
